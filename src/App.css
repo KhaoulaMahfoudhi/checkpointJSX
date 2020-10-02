@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.welcom {
+  height: 40vmin;
+  pointer-events: none;
+}
+.hello {
+  height: 30vmin;
+  pointer-events: none;
+}
+.flexione{
+  display: flex;
+  justify-content: space-between;
+  background-image: url(/image/hero.jpg);
+}
+.titlered{
+  color: red;
+}
+.video{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
